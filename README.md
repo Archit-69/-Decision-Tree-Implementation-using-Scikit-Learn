@@ -117,6 +117,3 @@ jupyter notebook
 
 
 
-🔥 More algorithms (SVM, Random Forest, Logistic Regression)
-
-Just tell me!
