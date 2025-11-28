@@ -102,8 +102,15 @@ jupyter notebook
 
 ---------------------------------------------
 
+**Output**
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/628c91a7-2938-4985-8966-95c1cf285f32" />
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/bc0bb178-6482-452d-9029-d292101ca8e0" />
+
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/762b5b37-6774-4fa4-8842-1c1cef353469" />
 
 
+--------------------------------------------------------------------------------------------
 🙌 Author
 
 * Company: CODTECH IT SOLUTIONS
