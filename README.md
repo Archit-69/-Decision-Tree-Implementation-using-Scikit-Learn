@@ -82,7 +82,7 @@ Accuracy score printed in notebook
 
 
 
-git clone https://github.com/Archit-69/codtech-task1-decision-tree.git
+git clone https://github.com/Archit-69/-Decision-Tree-Implementation-using-Scikit-Learn/blob/main/decision_tree.ipynb
 
 2. Install dependencies:
 
